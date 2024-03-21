@@ -32,6 +32,17 @@
             <version>7.0.6</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.languagetool</groupId>
+            <artifactId>languagetool-core</artifactId>
+            <version>6.3</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.languagetool</groupId>
+            <artifactId>language-en</artifactId>
+            <version>6.3</version>
+        </dependency>
     </dependencies>
 
 </project>
